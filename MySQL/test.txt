@@ -1,0 +1,3 @@
+ID-----MUMBER-----LOCATION
+01-----777-----LODZ
+07-----178-----POLAND
