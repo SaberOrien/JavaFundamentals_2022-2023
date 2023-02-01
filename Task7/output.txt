@@ -1,0 +1,2 @@
+Addition of 3 vectors resulted in a vector: 
+[9, 21, 20]
