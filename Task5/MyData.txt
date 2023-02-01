@@ -1,0 +1,13 @@
+day = 31, month = 12, year = 1626, weekday = Thursday, occurred: 1
+day = 4, month = 5, year = 1708, weekday = Friday, occurred: 1
+day = 15, month = 11, year = 1724, weekday = Wednesday, occurred: 1
+day = 30, month = 11, year = 1724, weekday = Thursday, occurred: 1
+day = 15, month = 12, year = 1724, weekday = Friday, occurred: 1
+day = 6, month = 12, year = 1734, weekday = Monday, occurred: 1
+day = 17, month = 6, year = 1752, weekday = Saturday, occurred: 2
+day = 9, month = 6, year = 1783, weekday = Monday, occurred: 1
+day = 28, month = 10, year = 1791, weekday = Friday, occurred: 3
+day = 1, month = 5, year = 1854, weekday = Monday, occurred: 2
+day = 3, month = 1, year = 1937, weekday = Sunday, occurred: 1
+day = 12, month = 10, year = 1969, weekday = Sunday, occurred: 1
+day = 2, month = 12, year = 2022, weekday = Friday, occurred: 1
